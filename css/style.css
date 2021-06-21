@@ -1,0 +1,19 @@
+.admin
+{
+    background-color: blue;
+    color: chartreuse;
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 140px;
+    line-height: 140px;
+
+}
+.dashboard
+{
+    background-color: violet;
+    color: rgb(255, 136, 0);
+    margin-left: 40px;
+    margin-right: 40px;
+    height: 120px;
+    font-size: 25px;
+}
